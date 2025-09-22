@@ -1,0 +1,11 @@
+# Nmap 7.98 scan initiated Mon Sep 22 04:04:34 2025 as: "C:\\Program Files (x86)\\Nmap\\nmap.exe" -sS -p 22,80,443 -oN localhost_scan.txt localhost
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00076s latency).
+Other addresses for localhost (not scanned): ::1
+
+PORT    STATE  SERVICE
+22/tcp  closed ssh
+80/tcp  closed http
+443/tcp closed https
+
+# Nmap done at Mon Sep 22 04:04:35 2025 -- 1 IP address (1 host up) scanned in 0.69 seconds
