@@ -1,5 +1,4 @@
 # network_scan_submission
-# Network Scan Submission
 
 This repository contains the files for my Cyber Security Internship task:
 - Localhost port scan
